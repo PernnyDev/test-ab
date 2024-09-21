@@ -1,0 +1,9 @@
+.container {
+    margin-top: 50px;
+  }
+  h2 {
+    color: blue;
+  }
+  .form-login .form-control.w-33 {
+    width: 33%;
+  }
